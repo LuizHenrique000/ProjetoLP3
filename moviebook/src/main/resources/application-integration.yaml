@@ -1,2 +1,3 @@
 tmdb-external-api: https://api.themoviedb.org/3
 tmdb-api-key: 96f9d761da098b39ca71e3484f860ff2
+tmdb-auth: https://api.themoviedb.org/3/authentication/token/new?

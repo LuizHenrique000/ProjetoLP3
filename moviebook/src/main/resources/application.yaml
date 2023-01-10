@@ -1,6 +1,7 @@
 server:
   servlet:
     context-path: /moviebook
+  port: 8081
 
 spring:
   datasource:
